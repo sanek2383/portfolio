@@ -23,5 +23,5 @@ window.onscroll = function() {
 
 }
 
-window.scrollTo(0, 1)
+window.scrollTo(0,5)
 
